@@ -1,0 +1,16 @@
+.consoles {
+    cursor: pointer;
+    text-align:center;
+    font-weight:bold;
+}
+
+.card {
+    margin: 0 auto;
+    border-color:black;
+    font-weight:bold;
+}
+
+.container {
+    text-align:center;
+    font-weight:bold;
+}
